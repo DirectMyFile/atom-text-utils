@@ -1,0 +1,4 @@
+name: atom_text_utils
+dependencies:
+  atom:
+    git: https://github.com/DirectMyFile/atom.dart.git
